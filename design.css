@@ -690,6 +690,9 @@ body {
 }
 
 @media only screen and (max-width:550px) {
+    .navbar{
+      height: 592px;
+    }
     .main-img {
         margin-left: 80px;
     }
