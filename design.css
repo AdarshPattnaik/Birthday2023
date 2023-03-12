@@ -726,11 +726,11 @@ body {
         width: 160px;
     }
     .love-img{
-        margin-left: -175px;
+        margin-left: -25px;
     }
     .imgbox{
         margin-top: 200px;
-        margin-left: 10px;
+        margin-left: -175px;
     }
     .greeting{
         font-size: 2rem;
