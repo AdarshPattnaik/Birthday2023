@@ -692,9 +692,9 @@ body {
 }
 
 @media only screen and (max-width:550px) {
-    .navbar{
+/*     .navbar{
       height: 450px;
-    }
+    } */
     .main-img {
         margin-left: 80px;
     }
