@@ -672,7 +672,7 @@ body {
 
 @media only screen and (max-width:680px) {
     .main-img {
-        margin-bottom: 300px;
+/*         margin-bottom: 300px; */
         margin-left: 130px;
         height: 250px;
         border: 10px solid #879dff;
